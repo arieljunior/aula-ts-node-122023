@@ -50,3 +50,6 @@ Executar arquivo typescript
 
 ## Referências
 - https://roadmap.sh/typescript
+- https://www.prisma.io/dataguide/mongodb/setting-up-a-local-mongodb-database#setting-up-mongodb-on-windows
+- https://www.mongodb.com/basics/create-database
+- https://mongoosejs.com/docs/typescript.html
